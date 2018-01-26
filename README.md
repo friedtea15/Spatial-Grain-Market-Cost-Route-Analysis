@@ -7,6 +7,6 @@ This program was developed for the project *Evolving Supply Chains and Local Fre
 
 Further information of the project can be found on the TPEC website: http://freighteconomyatlas.org/amber-roads-of-grain/
 
-##Author Contact
+## Author Contact
 Please contact for any inquiries on how to use the code.
 Travis Fried, travis.a.fried@gmail.com
